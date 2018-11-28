@@ -3,5 +3,5 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Test123
-layout: default
+layout: blog
 ---
